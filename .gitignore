@@ -1,0 +1,15 @@
+*.o
+*.exe
+*.dll
+*.obj
+*.ilk
+*.pdb
+*.tlog
+[Dd]ebug/
+[Rr]elease/
+ipch/
+*.sdf
+*.suo
+*.user
+
+.vs/**
